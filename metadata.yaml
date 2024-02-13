@@ -1,0 +1,28 @@
+_repo: Uusi-tulevaisuus-b-Kolme-kertoelmaa_72850
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lassinen, Emil
+    birthdate: 1861
+    deathdate: 1938
+    gutenberg_agent_id: '37583'
+    url: http://www.gutenberg.org/2009/agents/37583
+    wikipedia: https://fi.wikipedia.org/wiki/Emil_Lassinen
+description: ''
+gutenberg_issued: '2024-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72850'
+language: fi
+pgterms:marc905: 20190528073142lassinen
+pgterms:marc906: '1908'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Kansa, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Uusi tulevaisuus : $b Kolme kertoelmaa'
+url: http://www.gutenberg.org/ebooks/72850

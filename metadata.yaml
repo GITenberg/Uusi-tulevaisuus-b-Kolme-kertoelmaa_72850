@@ -1,5 +1,8 @@
 _repo: Uusi-tulevaisuus-b-Kolme-kertoelmaa_72850
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lassinen, Emil
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37583
     wikipedia: https://fi.wikipedia.org/wiki/Emil_Lassinen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72850#Uusi-tulevaisuus-b-Kolme-kertoelmaa
 gutenberg_issued: '2024-02-01'
 gutenberg_type: Text
 identifiers:
